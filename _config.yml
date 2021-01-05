@@ -3,4 +3,4 @@ theme: jekyll-theme-cayman
 title: MHML
 description: Michigan Hackers Machine Learning
 
-show_downloads: true
+show_downloads: false
